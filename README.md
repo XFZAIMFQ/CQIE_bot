@@ -7,7 +7,7 @@ _✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 实现 ✨_
 
 ## 项目介绍
 
-本项目适用于适配**重庆工程学院(CQIE)**，为方便在校生的校内生活，基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 实现的QQ机器人
+本项目适用于适配**重庆工程学院(CQIE)**，基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 实现的QQ机器人
 
 ### 配置环境
 
