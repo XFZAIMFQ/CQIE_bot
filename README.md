@@ -1,6 +1,6 @@
 <div align="center">
 
-# CQIE-roboot
+# CQIE-bot
 _✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 实现 ✨_  
 
 </div>
@@ -24,11 +24,12 @@ _✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 实现 ✨_
 - [ ] 活动订阅
 - [x] 综测分查询
 - [x] 课表查询
-- [ ] 上课提醒
+- [x] 上课提醒
 - [ ] 成绩查询
 - [x] 电费查询
-- [ ] 电费提醒
-- [ ] 用电查询
+- [ ] 用电量订阅
+- [x] 电费不足提醒
+
 
 ### 使用帮助
  - 综测分查询  
