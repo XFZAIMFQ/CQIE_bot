@@ -23,6 +23,7 @@ _✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp) 实现 ✨_
 - [x] 活动提醒
 - [x] 活动订阅
 - [x] 综测分查询
+- [x] 综测分统计
 - [x] 课表查询
 - [x] 上课提醒
 - [ ] 成绩查询
